@@ -11,4 +11,4 @@ layout: default
 - [Snore Sentry](https://group-leafy.github.io/SnoreSentry/)
 - [PackPlan](https://group-leafy.github.io/PackPlan/)
 - [Cover](https://group-leafy.github.io/Cover/)
-- [SnapAuth](https://group-leafy.github.io/SnapAuth/)
+- [NodeDown](https://group-leafy.github.io/NodeDown/)
