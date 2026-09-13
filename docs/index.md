@@ -12,3 +12,4 @@ layout: default
 - [PackPlan](https://group-leafy.github.io/PackPlan/)
 - [Cover](https://group-leafy.github.io/Cover/)
 - [NodeDown](https://group-leafy.github.io/NodeDown/)
+- [NearVox](https://group-leafy.github.io/NearVox/)
